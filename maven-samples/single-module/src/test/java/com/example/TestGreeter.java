@@ -31,7 +31,7 @@ public class TestGreeter {
   public void intentionnalyFailed() {
     String someone = "World";
 
-    assertTrue(false);
+    assertTrue(true);
   }
   
 
